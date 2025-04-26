@@ -51,7 +51,6 @@ string rotarPalabras(string texto, int k) {
 }
 
 int main() {
-    // Probamos la función con el ejemplo dado
     string texto = "uno dos tres cuatro";
     int k = 1;
     
